@@ -206,7 +206,7 @@ body {
     
 }
 
-.column3content :hover{
+.column3content:hover{
     -webkit-transform: scale(1.025);
     transform: scale(1.025);
 }
