@@ -139,9 +139,9 @@ body {
 }
 
 .column1content{
-    
-    box-sizing: border-box;
     display: flex;
+    box-sizing: border-box;
+    
     align-items: center;
     background-color:#fffbeb;
     border-radius: 5px;
@@ -179,6 +179,7 @@ body {
     
     align-content: center;
     justify-content: center;
+    padding: 5px;
     
     
     
@@ -202,6 +203,7 @@ body {
     
     align-content: center;
     justify-content: center;
+    padding: 5px;
     
     
 }
